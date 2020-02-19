@@ -1,4 +1,4 @@
-# Tp 1 Admin systémea
+# Tp 1 Admin system
 
 ## Exercice 2. Prise en main de l’interpréteur de commandes
 
